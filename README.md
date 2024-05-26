@@ -25,7 +25,7 @@ as part of a freelance project For over 40 hours.
 
 * PCB size is Fixed on 60x40m or less.
 
-<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ethernet%20Switch.PNG" width="800" heigth="600"/></p>
+<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ethernet%20Switch.PNG" width="600" heigth="400"/></p>
 
 
 
