@@ -33,7 +33,7 @@ as part of a freelance project For over 40 hours.
 
 * The pictures below show the PCB board after the fabrication and assembly process:
 
-
+<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Real%20Board%20View%203D.jpg" width="600" heigth="400"/></p>
 
 
 
