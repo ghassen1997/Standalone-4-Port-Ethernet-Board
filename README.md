@@ -29,11 +29,9 @@ as part of a freelance project For over 40 hours.
 
 
 
+ #  Real View of the Board After Fabrication and Assembly
 
-
-
-
-
+* The pictures below show the PCB board after the fabrication and assembly process:
 
 
 
