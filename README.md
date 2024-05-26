@@ -36,10 +36,25 @@ as part of a freelance project For over 40 hours.
 <p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Real%20Board%20View%203D%20(1).jpg" width="600" heigth="400"/></p>
 
 
+# Test The Board Ethernet 
+
+The Vedio demonstration Below  highlights the efficient performance and functionality of the Ethernet switch in a real-world scenario.
+
+Note : The Board was Testing by one of The Team Belong To LABjOY Team and The Test Service is outsife the Scop of the Work
+ 
+The video demonstrates the successful data transmission of the Ethernet switch, achieving speeds up to 37.64 MB/s. Additionally, it shows the activity of the Ethernet LEDs:
+
+* Speed LED: The orange LED indicates the current link speed.
+ 
+* Acknowledgment LED: The green LED signifies active data transmission and acknowledgment.
+
+* The red LED indicates the successful delivery of power supply.
+
+> [!NOTE]
+>  The board was tested by a team from LABJOY, whose testing service falls outside the scope of the work being dealt with.
 
 
-
-
-
-
-
+<video width="320" height="240" controls>
+  <source src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Vedio%20Demonstration.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
