@@ -54,10 +54,9 @@ The video demonstrates the successful data transmission of the Ethernet switch, 
 >  The board was tested by a team from LABJOY, whose testing service falls outside the scope of the work being dealt with.
 
 
-https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Vedio%20Demonstration.mp4
 
 
-
+[<img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Cover_Vedio.PNG" width="50%">](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Vedio%20Demonstration.mov)
 
 
 
