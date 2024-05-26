@@ -36,7 +36,7 @@ as part of a freelance project For over 40 hours.
 <p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Real%20Board%20View%203D%20(1).jpg" width="600" heigth="400"/></p>
 
 
-# Test The Board Ethernet 
+# TEST THE ETHERNET SWITCH BOARD
 
 The Vedio demonstration Below  highlights the efficient performance and functionality of the Ethernet switch in a real-world scenario.
 
@@ -58,6 +58,13 @@ The video demonstrates the successful data transmission of the Ethernet switch, 
 
 [<img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Cover_Vedio.PNG" width="50%">](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Vedio%20Demonstration.mov)
 
+
+# Customer Feedback 
+
+The service was completed and successfully delivered. The customer has provided their feedback and shared their review regarding the work that was done, as demonstrated below :
+
+
+<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg" width="400" heigth="600"/></p>
 
 
 
