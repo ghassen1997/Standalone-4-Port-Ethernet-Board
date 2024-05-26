@@ -25,8 +25,10 @@ as part of a freelance project For over 40 hours.
 
 * PCB size is Fixed on 60x40m or less.
 
- 
-![Ethernet_Switch_Desgin_Requirement](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ethernet%20Switch.PNG)
+<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ethernet%20Switch.PNG" width="150" heigth="200"/></p>
+
+
+
 
 
 
