@@ -67,7 +67,15 @@
 
 * The pictures below show the PCB board after the fabrication and assembly process:
 
-<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Real%20Board%20View%203D%20(1).jpg" width="600" heigth="400"/></p>
+| Real 3D View           | 
+:-------------------------:|
+![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Real%20Board%20View%203D%20(1))  |
+
+
+
+
+
+
 
 
 # TEST THE ETHERNET SWITCH BOARD
