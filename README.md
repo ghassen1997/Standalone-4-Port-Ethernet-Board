@@ -67,9 +67,6 @@
 
 * The pictures below show the PCB board after the fabrication and assembly process:
 
-| Real 3D View           | 
-:-------------------------:|
-![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Real%20Board%20View%203D%20(1))  |
 
 | Real 3D View           | 
 :-------------------------:|
