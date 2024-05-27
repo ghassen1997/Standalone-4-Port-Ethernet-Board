@@ -6,17 +6,17 @@
 * **Development:** This module was developed as part of a freelance project over a 40 hours using Altium Designer. The project followed an agile approach, involving close collaboration with clients at each step to ensure verification and validation against the requirements.
 
 * **Design Process:**
-    1. **Requirement Analysis:** We begin by analyzing the client's functional and design requirements.
-    2. **System Definition:** A block diagram is created to define the system and its subsystems, illustrating their interactions.
-    3. **Schematic Capture:** The block diagram is elaborated on using components from an existing library.
-    4. **Board Design:**
+     **Requirement Analysis:** We begin by analyzing the client's functional and design requirements.
+     **System Definition:** A block diagram is created to define the system and its subsystems, illustrating their interactions.
+     **Schematic Capture:** The block diagram is elaborated on using components from an existing library.
+    **Board Design:**
        * **Stack-up and Impedance Control:** The layer stack-up and impedance control for the Ethernet Signals that are defined.
        * **Component Placement:** Components are placed on the board considering available space based on client requirements and design rules.
        * **Rule Definition:** Define rules including manufacturer specifications and clearances outlined in IPC standard 2221.
        * **Layout:** Connect all the signals ensuring Proper clerances and Rule Respect .
        * **Design Improvement:** The design is reviewed and improved for optimal performance.
-    5. **Output Files:** All necessary documents for board manufacturing are generated, including the design files and relevant documentation.
-    6. **Client Delivery and Feedback:** Deliver the project to the client and Receive feedback.
+     **Output Files:** All necessary documents for board manufacturing are generated, including the design files and relevant documentation.
+     **Client Delivery and Feedback:** Deliver the project to the client and Receive feedback.
 
  # 2.DESIGN REQUIREMENT: 
 
