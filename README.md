@@ -32,6 +32,13 @@ The service begins with analyzing the functional and design requirements provide
 
 <p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ethernet%20Switch.PNG" width="600" heigth="400"/></p>
 
+ # Layout and Design : 
+
+ * The layout has been completed in four layers (top layer, ground layer, power layer, and bottom layer), as shown in the pictures below : 
+
+
+
+
 
 
  #  Real View of the Board After Fabrication and Assembly
