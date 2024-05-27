@@ -63,9 +63,9 @@ The service begins with analyzing the functional and design requirements provide
 
 # TEST THE ETHERNET SWITCH BOARD
 
-The Vedio demonstration Below  highlights the efficient performance and functionality of the Ethernet switch in a real-world scenario.
+* The Test Starting by taking the input of power supply 5V to the board and than connect  the switch Ethernet 1 and the Ethe Switch Ethernet 3 
 
-Note : The Board was Testing by one of The Team Belong To LABjOY Team and The Test Service is outsife the Scop of the Work
+
  
 The video demonstrates the successful data transmission of the Ethernet switch, achieving speeds up to 37.64 MB/s. Additionally, it shows the activity of the Ethernet LEDs:
 
