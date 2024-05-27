@@ -2,7 +2,7 @@
 
 # 1.Project Descreption : 
 
-* **Function:** The Device is a networking device used to connect multiple devices on a local area network (LAN). It operates at speeds of 10/100 Mbps, allowing for efficient data transfer between connected devices. This module was developed as part of a freelance project For over 40 hours.
+* **Function:** The Device is a networking device used to connect multiple devices on a local area network (LAN). It operates at speeds of 10/100 Mbps, allowing for efficient data transfer between connected devices. 
 * **Development:** This module was developed as part of a freelance project over a 40 hours using Altium Designer. The project followed an agile approach, involving close collaboration with clients at each step to ensure verification and validation against the requirements.
 
 * **Design Process:**
