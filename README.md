@@ -1,6 +1,6 @@
 # Standalone-4-Port-Ethernet-Board
 
-# Project Descreption : 
+# 1.Project Descreption : 
 
 * **Function:** The Device is a networking device used to connect multiple devices on a local area network (LAN). It operates at speeds of 10/100 Mbps, allowing for efficient data transfer between connected devices. This module was developed as part of a freelance project For over 40 hours.
 * **Development:** This module was developed as part of a freelance project over a 40 hours using Altium Designer. The project followed an agile approach, involving close collaboration with clients at each step to ensure verification and validation against the requirements.
@@ -18,15 +18,7 @@
     5. **Output Files:** All necessary documents for board manufacturing are generated, including the design files and relevant documentation.
     6. **Client Delivery and Feedback:** Deliver the project to the client and Receive feedback.
 
-  
-  
-
-The service begins with analyzing the functional and design requirements provided by the client. We then proceed to create a block diagram that defines the system and its subsystems, outlining how they will interact. Next, we elaborate on the schematic using components from an existing library. Following this, we define the layer stack-up and impedance control for the Ethernet board and Then We starting by the components Placement Regarding the avalible space Provided From the Requiement of the Client and the the layout was done regarding the Degign Rule  that already defined  Regarind manufacturer Rules and Clerance Regarding IPC standard 2221  after that we finish by the Design improvement and Board Outline and We generate the Output Job files include all the necessary Documents for the client To manufacturer the board 
-
-
-
-
- # DESIGN REQUIREMENT: 
+ # 2.DESIGN REQUIREMENT: 
 
 * 5V Power Supply Input.
 
