@@ -10,7 +10,7 @@ The service begins with analyzing the functional and design requirements provide
 
 
 
- # Design Requirments: 
+ # DESIGN REQUIREMENT: 
 
 * 5V Power Supply Input.
 
@@ -32,7 +32,7 @@ The service begins with analyzing the functional and design requirements provide
 
 <p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ethernet%20Switch.PNG" width="400" heigth="300"/></p>
 
- # Layout Implementation : 
+ # LAYOUT IMPLEMENTATION : 
 
  * The layout has been completed in four layers (top layer, ground layer, power layer, and bottom layer), as shown in the pictures below : 
 
@@ -45,6 +45,13 @@ The service begins with analyzing the functional and design requirements provide
 ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ground%20Layer.PNG)  |  ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Power%20Layer.PNG)
 
 
+ # PCB 3D VIEW  : 
+
+* The next pictures represents the 3D View from the Board taken From Altium Designer :
+
+| TOP 3D VIEW             | BOTTOM 3D VIEW |
+:-------------------------:|:-------------------------:
+![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/TOP%203D%20VIEW.PNG)  |  ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Bottom%203D%20View.PNG)
 
 
  #  Real View of the Board After Fabrication and Assembly
