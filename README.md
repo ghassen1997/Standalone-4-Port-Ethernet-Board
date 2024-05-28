@@ -57,6 +57,8 @@ The Block Diagram has been employed for this Project to illustrate the system's 
 | TOP LAYER                | BOTTOM LAYER |
 :-------------------------:|:-------------------------|
 ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Top%20Bottom.PNG)  |  ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Bottom%20Layer.PNG) |
+
+
 | GROUND LAYER             | POWER LAYER |
 :-------------------------:|:-------------------------|
 ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ground%20Layer.PNG)  |  ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Power%20Layer.PNG) |
