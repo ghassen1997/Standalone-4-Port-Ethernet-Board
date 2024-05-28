@@ -53,12 +53,10 @@ The Block Diagram has been employed for this Project to illustrate the system's 
 
  # LAYOUT IMPLEMENTATION : 
 
- * The layout has been completed in four layers (top layer, ground layer, power layer, and bottom layer), as shown in the pictures below : 
-
+ * The layout has been finalized with a four-layer configuration as per the client's request, aligning with specified requirements. This stackup is optimal for our needs, particularly for maintaining controlled impedance signals such as Ethernet, which necessitate careful consideration for both signal and power integrity. Below, you'll find images showcasing the top, ground, power, and bottom layers :
 | TOP LAYER             | BOTTOM LAYER |
 :-------------------------:|:-------------------------:
 ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Top%20Bottom.PNG)  |  ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Bottom%20Layer.PNG)
-
 | GROUND LAYER              | POWER LAYER |
 :-------------------------:|:-------------------------:
 ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ground%20Layer.PNG)  |  ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Power%20Layer.PNG)
