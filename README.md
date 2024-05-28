@@ -117,7 +117,7 @@ The video demonstrates the successful data transmission of the Ethernet switch, 
 The service was completed and successfully delivered. The customer has provided their feedback and shared their review regarding the work that was done, as demonstrated below :
 
 
-<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg" width="300" heigth="400"/></p>
+<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg" width="400" heigth="500"/></p>
 
 
 
