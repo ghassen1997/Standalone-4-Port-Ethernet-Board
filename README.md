@@ -41,14 +41,15 @@
 
 <p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Ethernet%20Switch.PNG" width="400" heigth="300"/></p>
 
- # 3.DESIGN REQUIREMENT: 
+ # 3.BLOCK DIAGRAM & SCHEMATICS: 
 
 The Block Diagram has been employed for this Project to illustrate the system's or circuit's high-level structure and architecture. It serves as a graphical representation, delineating key functional blocks and their interconnections, as exemplified in the image below :
 
 
 ![Block Diagram](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Block%20Diagram.PNG)
 
-
+> [!NOTE]
+> he full schematic is part of confidential information owned by the customer. Therefore, it cannot be shared as it pertains to their exclusive project.
 
  # LAYOUT IMPLEMENTATION : 
 
