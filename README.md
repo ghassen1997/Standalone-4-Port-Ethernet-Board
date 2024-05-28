@@ -122,11 +122,7 @@ Additionally, it shows the activity of the Ethernet LEDs:
 
 The service was completed and successfully delivered. The customer has provided their feedback and shared their review regarding the work that was done, as demonstrated below :
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg">
-</p>
 
-
-
+https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/issues/2#issue-2321433344
 
 
