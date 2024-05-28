@@ -1,3 +1,5 @@
+# Standalone-4-Port-Ethernet-Board
+
 
 # 1.Project Descreption : 
 
@@ -50,7 +52,7 @@ The Block Diagram has been employed for this Project to illustrate the system's 
 > [!NOTE]
 > the full schematic is part of confidential information owned by the customer. Therefore, it cannot be shared as it pertains to their exclusive project.
 
- # LAYOUT IMPLEMENTATION : 
+ # 4.LAYOUT IMPLEMENTATION : 
 
  * The layout has been finalized with a four-layer configuration as per the client's request, aligning with specified requirements. This stackup is optimal for our needs, particularly for maintaining controlled impedance signals such as Ethernet, which necessitate careful consideration for both signal and power integrity. Below, you'll find images showcasing the top, ground, power, and bottom layers :
 
@@ -88,7 +90,7 @@ The Block Diagram has been employed for this Project to illustrate the system's 
 
 
 
-# TEST THE ETHERNET SWITCH BOARD
+# 4.TEST THE ETHERNET SWITCH BOARD
 
 * The testing procedure begins by supplying 5V power to the board through the power connector. Next, connect the Ethernet Switch Ethernet 1 and Ethernet Switch Ethernet 3 to the Ethernet connector on the laptop. Using the Speedtest by Ookla, measure the speed of data transmission. The accompanying video demonstrates successful data transmission of the Ethernet switch, achieving speeds up to 37.64 MB/s.
 
@@ -117,7 +119,7 @@ https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/
 >  The board was tested by a team from LABJOY, whose testing service falls outside the scope of the work being dealt with.
 
 
-# Customer Feedback 
+# 5.Customer Feedback 
 
 The service was completed and successfully delivered. The customer provided their feedback and shared a review of the work done, expressing their happiness with the results, as demonstrated in the picture below. 
 
@@ -125,4 +127,7 @@ The service was completed and successfully delivered. The customer provided thei
  <p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg" width="400" heigth="600"/></p>
 
 
+# 6.Ressources :
+
+[1].[Microship_KSZ8795](https://www.microchip.com/en-us/product/ksz8795)
 
