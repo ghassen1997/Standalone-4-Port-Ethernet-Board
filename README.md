@@ -109,10 +109,7 @@ Additionally, it shows the activity of the Ethernet LEDs:
 
 
 
-<p align="center">
-  <video src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/13a64c1e-62ff-41e6-b10e-3d65fde8921d4" width=400/>
-<p/>
-
+https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/13a64c1e-62ff-41e6-b10e-3d65fde8921d
     
 
 > [!NOTE]
@@ -123,8 +120,9 @@ Additionally, it shows the activity of the Ethernet LEDs:
 
 The service was completed and successfully delivered. The customer has provided their feedback and shared their review regarding the work that was done, as demonstrated below :
 
-
-<p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg" width="400" heigth="500"/></p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg">
+</p>
 
 
 
