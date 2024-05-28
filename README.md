@@ -1,4 +1,4 @@
-# Standalone-4-Port-Ethernet-Board
+![image](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/53204217-62b5-4d4b-9726-0617cf470957)# Standalone-4-Port-Ethernet-Board
 
 # 1.Project Descreption : 
 
@@ -107,8 +107,7 @@ Additionally, it shows the activity of the Ethernet LEDs:
 
 * The red LED indicates the successful delivery of power supply.
 
-https://private-user-images.githubusercontent.com/71781691/334484634-13a64c1e-62ff-41e6-b10e-3d65fde8921d.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY5MTIzMjUsIm5iZiI6MTcxNjkxMjAyNSwicGF0aCI6Ii83MTc4MTY5MS8zMzQ0ODQ2MzQtMTNhNjRjMWUtNjJmZi00MWU2LWIxMGUtM2Q2NWZkZTg5MjFkLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTI4VDE2MDAyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVjODg2MWFjM2NmZTJiYzI5YzE1NzMzZTY0ZmY1ZWI1ZDc0ZGEzMDFhZTRmNTdkMWY4MmYyMDU1MzJjMTc5NjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eQjMGGjGMTTrI9V7FqcQFK8g704QawG7eUY0J6ldnOM
-
+https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/issues/2#issue-2321433344
 
 
 
