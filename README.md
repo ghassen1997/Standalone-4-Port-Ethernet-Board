@@ -49,7 +49,7 @@ The Block Diagram has been employed for this Project to illustrate the system's 
 ![Block Diagram](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Block%20Diagram.PNG)
 
 > [!NOTE]
-> he full schematic is part of confidential information owned by the customer. Therefore, it cannot be shared as it pertains to their exclusive project.
+> the full schematic is part of confidential information owned by the customer. Therefore, it cannot be shared as it pertains to their exclusive project.
 
  # LAYOUT IMPLEMENTATION : 
 
