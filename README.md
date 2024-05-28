@@ -107,9 +107,9 @@ Additionally, it shows the activity of the Ethernet LEDs:
 
 * The red LED indicates the successful delivery of power supply.
 
-<div align="center">
+<palign="center">
   <video src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/issues/2#issue-2321433344" width="400" />
-</div>
+</p>
 
 
     
