@@ -123,6 +123,6 @@ https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/
 The service was completed and successfully delivered. The customer has provided their feedback and shared their review regarding the work that was done, as demonstrated below :
 
 
-https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/issues/2#issue-2321433344
+
 
 
