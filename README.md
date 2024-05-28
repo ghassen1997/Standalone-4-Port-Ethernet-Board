@@ -107,8 +107,11 @@ Additionally, it shows the activity of the Ethernet LEDs:
 
 * The red LED indicates the successful delivery of power supply.
 
+<p align="center">
+  <video src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/13a64c1e-62ff-41e6-b10e-3d65fde8921d4" width=400/>
+<p/>
 
-https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/13a64c1e-62ff-41e6-b10e-3d65fde8921d
+    
 
 > [!NOTE]
 >  The board was tested by a team from LABJOY, whose testing service falls outside the scope of the work being dealt with.
