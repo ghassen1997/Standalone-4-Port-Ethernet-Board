@@ -110,11 +110,6 @@ Additionally, it shows the activity of the Ethernet LEDs:
 [<img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Cover_Vedio.PNG" width="50%">](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Vedio%20Demonstration.mov)
 
 
-<video width="560" height="240" controls>
-  <source src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Vedio%20Demonstration.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video> 
-
 
 
 > [!NOTE]
