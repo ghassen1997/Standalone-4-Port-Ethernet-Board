@@ -94,7 +94,7 @@ The Block Diagram has been employed for this Project to illustrate the system's 
 * The testing procedure begins by supplying 5V power to the board through the power connector. Next, connect the Ethernet Switch Ethernet 1 and Ethernet Switch Ethernet 3 to the Ethernet connector on the laptop. Using the Speedtest by Ookla, measure the speed of data transmission. The accompanying video demonstrates successful data transmission of the Ethernet switch, achieving speeds up to 37.64 MB/s.
 
 
-| Board Testing          | 
+|   Board Testing          | 
 :-------------------------:|
 
 ![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Board%20Testing.jpg) |
