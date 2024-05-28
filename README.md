@@ -91,11 +91,16 @@ The Block Diagram has been employed for this Project to illustrate the system's 
 
 # TEST THE ETHERNET SWITCH BOARD
 
-* The Test Starting by taking the input of power supply 5V to the board and than connect  the switch Ethernet 1 and the Ethe Switch Ethernet 3 
+* The testing procedure begins by supplying 5V power to the board through the power connector. Next, connect the Ethernet Switch Ethernet 1 and Ethernet Switch Ethernet 3 to the Ethernet connector on the laptop. Using the Speedtest by Ookla, measure the speed of data transmission. The accompanying video demonstrates successful data transmission of the Ethernet switch, achieving speeds up to 37.64 MB/s.
 
 
- 
-The video demonstrates the successful data transmission of the Ethernet switch, achieving speeds up to 37.64 MB/s. Additionally, it shows the activity of the Ethernet LEDs:
+| Board Testing          | 
+:-------------------------:|
+
+![](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Board%20Testing.jpg) |
+
+
+Additionally, it shows the activity of the Ethernet LEDs:
 
 * Speed LED: The orange LED indicates the current link speed.
  
@@ -110,6 +115,9 @@ The video demonstrates the successful data transmission of the Ethernet switch, 
 
 
 [<img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Cover_Vedio.PNG" width="50%">](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Vedio%20Demonstration.mov)
+
+> [!NOTE]
+>  The board was tested by a team from LABJOY, whose testing service falls outside the scope of the work being dealt with.
 
 
 # Customer Feedback 
