@@ -122,6 +122,7 @@ https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/
 The service was completed and successfully delivered. The customer provided their feedback and shared a review of the work done, expressing their happiness with the results, as demonstrated in the picture below. 
 
 
-![Client_Feedback](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg)
+ <p align="center"><img src="https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg" width="400" heigth="600"/></p>
+
 
 
