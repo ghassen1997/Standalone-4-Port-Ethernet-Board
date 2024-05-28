@@ -1,4 +1,3 @@
-![image](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/53204217-62b5-4d4b-9726-0617cf470957)# Standalone-4-Port-Ethernet-Board
 
 # 1.Project Descreption : 
 
@@ -120,9 +119,9 @@ https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/assets/71781691/
 
 # Customer Feedback 
 
-The service was completed and successfully delivered. The customer has provided their feedback and shared their review regarding the work that was done, as demonstrated below :
+The service was completed and successfully delivered. The customer provided their feedback and shared a review of the work done, expressing their happiness with the results, as demonstrated in the picture below. 
 
 
-
+![Client_Feedback](https://github.com/ghassen1997/Standalone-4-Port-Ethernet-Board/blob/main/Assets/Client%20Feedback.jpg)
 
 
